@@ -1,0 +1,20 @@
+.Bodylogo-class{
+    display: flex;
+    flex-direction: row;
+}
+.LogoText-class{
+    max-width: 780px;
+    color: black;
+    font-size: 3rem;
+    text-align: justify;
+    margin-top: 18%;
+    font-weight: 300;
+}
+.Span-class{
+    color: #1e90ff;
+    display: inline;
+}
+.img-fluid{
+    width: 600px;
+    height: 600px;
+}
